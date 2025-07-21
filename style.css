@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    background: pink;
+}
+h1 {
+    color: black;
+    padding: 32px;
+    margin: 20px;
+    text-align: center;
+}
+h2 {
+    padding:32px;
+    margin-bottom: 10px;
+}
+p {
+    padding: 10px;
+    color: pink;
+    background-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-color: pink;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+ul {
+    list-style-type: circle;
+}
+ol {
+    list-style-type: decimal;
+}
+li,
+.list-strong {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: black;
+    color: pink;
+    padding: 20px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+img {
+    margin: 10px;
+    border: 10px;
+    align-content: center;
+}
+a {
+    color:red;
+    background: rgb(248, 180, 191);
+    height: 100px;
+    width: 100px;
+    font-weight: 100;
+    text-align: justify;
+}
